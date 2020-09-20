@@ -1,1 +1,1 @@
-# Story_Generation_English_French_Arabic
+# Children_Story_Generation_English_French_Arabic
